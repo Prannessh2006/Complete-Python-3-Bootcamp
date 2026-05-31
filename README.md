@@ -1,9 +1,21 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+# Complete Python 3 Bootcamp
 
-Copyright(©) by Pierian Data Inc.
+> Course Files for Complete Python 3 Bootcamp Course on Udemy that I use
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+## Overview
+This repository contains the source code and configuration for **Complete-Python-3-Bootcamp**. It has been organized with simplicity and minimalism in mind to ensure the codebase remains clean and approachable.
 
-Thanks!
+## Features
+- **Clean Architecture:** Straightforward file structure and clear separation of concerns.
+- **Minimal Dependencies:** Built to be lightweight and easy to maintain.
+- **Ready to Use:** Focused exclusively on core functionality.
+
+## Getting Started
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Prannessh2006/Complete-Python-3-Bootcamp.git
+```
+
+---
+*Maintained by [@Prannessh2006](https://github.com/Prannessh2006)*
